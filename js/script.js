@@ -1,6 +1,4 @@
 $(document).ready(function() {
- //
- // add your jQuery code here
 
 
  	$("#stream1_btn").on("click", function() {
